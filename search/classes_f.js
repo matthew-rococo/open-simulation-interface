@@ -1,10 +1,17 @@
 var searchData=
 [
-  ['ultrasonicdetection',['UltrasonicDetection',['../structosi3_1_1UltrasonicDetection.html',1,'osi3']]],
-  ['ultrasonicdetectiondata',['UltrasonicDetectionData',['../structosi3_1_1UltrasonicDetectionData.html',1,'osi3']]],
-  ['ultrasonicdetectionspecificheader',['UltrasonicDetectionSpecificHeader',['../structosi3_1_1UltrasonicDetectionSpecificHeader.html',1,'osi3']]],
-  ['ultrasonicindirectdetection',['UltrasonicIndirectDetection',['../structosi3_1_1UltrasonicIndirectDetection.html',1,'osi3']]],
-  ['ultrasonicsensorview',['UltrasonicSensorView',['../structosi3_1_1UltrasonicSensorView.html',1,'osi3']]],
-  ['ultrasonicsensorviewconfiguration',['UltrasonicSensorViewConfiguration',['../structosi3_1_1UltrasonicSensorViewConfiguration.html',1,'osi3']]],
-  ['ultrasonicspecificobjectdata',['UltrasonicSpecificObjectData',['../structosi3_1_1UltrasonicSpecificObjectData.html',1,'osi3']]]
+  ['sensordata',['SensorData',['../structosi3_1_1SensorData.html',1,'osi3']]],
+  ['sensordataseries',['SensorDataSeries',['../structosi3_1_1SensorDataSeries.html',1,'osi3']]],
+  ['sensordataserieslist',['SensorDataSeriesList',['../structosi3_1_1SensorDataSeriesList.html',1,'osi3']]],
+  ['sensordetectionheader',['SensorDetectionHeader',['../structosi3_1_1SensorDetectionHeader.html',1,'osi3']]],
+  ['sensorview',['SensorView',['../structosi3_1_1SensorView.html',1,'osi3']]],
+  ['sensorviewconfiguration',['SensorViewConfiguration',['../structosi3_1_1SensorViewConfiguration.html',1,'osi3']]],
+  ['signalway',['Signalway',['../structosi3_1_1UltrasonicSpecificObjectData_1_1Signalway.html',1,'osi3::UltrasonicSpecificObjectData']]],
+  ['spatialsignalstrength',['SpatialSignalStrength',['../structosi3_1_1SpatialSignalStrength.html',1,'osi3']]],
+  ['speedaction',['SpeedAction',['../structosi3_1_1TrafficAction_1_1SpeedAction.html',1,'osi3::TrafficAction']]],
+  ['spherical3d',['Spherical3d',['../structosi3_1_1Spherical3d.html',1,'osi3']]],
+  ['statepoint',['StatePoint',['../structosi3_1_1StatePoint.html',1,'osi3']]],
+  ['stationaryobject',['StationaryObject',['../structosi3_1_1StationaryObject.html',1,'osi3']]],
+  ['sun',['Sun',['../structosi3_1_1EnvironmentalConditions_1_1Sun.html',1,'osi3::EnvironmentalConditions']]],
+  ['supplementarysign',['SupplementarySign',['../structosi3_1_1TrafficSign_1_1SupplementarySign.html',1,'osi3::TrafficSign']]]
 ];
