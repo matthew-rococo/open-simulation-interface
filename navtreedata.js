@@ -26,10 +26,9 @@ var NAVTREE =
 [
   [ "open_simulation_interface", "index.html", [
     [ "Open Simulation Interface (OSI)", "index.html", [
-      [ "Usage", "index.html#autotoc_md11", null ],
-      [ "Installation", "index.html#autotoc_md12", null ]
+      [ "Usage", "index.html#autotoc_md13", null ],
+      [ "Installation", "index.html#autotoc_md14", null ]
     ] ],
-    [ "Todo List", "todo.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -47,13 +46,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"structosi3_1_1DetectedEntityHeader.html#a7946c4afc93bf2afe3cdd484c568bcfeab08b34b657c2f275cbb3c90dd2ccce3b",
-"structosi3_1_1GroundTruth.html#ac0cc92fce3e8e5a7d067a3a456b3d0ec",
-"structosi3_1_1LidarSensorViewConfiguration.html#a655eb060bed69dcfd3b268fee2733033",
-"structosi3_1_1MovingObject_1_1VehicleClassification_1_1LightState.html#aef50eb476a6f201f48d42d00a0c1587da2d22a92bf57be5d2c56d07e3976783b7",
-"structosi3_1_1StationaryObject_1_1Classification.html#a24bf321f2a1a030fe681c2bd6a7b1f18a0fa24d36aba831d2e97cedbdabf4a1a0",
-"structosi3_1_1TrafficSignValue.html#a8f1c180e36af26e5a9192f81f0020ae1ac9689cdec4cb7784fafa8cdc7e708c8e",
-"structosi3_1_1TrafficSign_1_1MainSign_1_1Classification.html#af4bea9cfaada82922c78d06dff73b88dae8439bc672015fb621c35091a9f240c0"
+"structosi3_1_1ColorRGBIR.html",
+"structosi3_1_1GeodeticPosition.html#ab0f61f18ce97fcee2fdca13be41afe72",
+"structosi3_1_1LidarDetection.html#a2da76e398f267b78133ce83fc66bd883",
+"structosi3_1_1MovingObject_1_1VehicleAttributes_1_1WheelData.html#a2095585cdc9eb8968fe576af7c43d5a3",
+"structosi3_1_1SensorData_1_1VirtualDetectionArea.html",
+"structosi3_1_1TrafficCommand.html#a3a1c42d3330cfe402429e57a6b6125d8",
+"structosi3_1_1TrafficSign_1_1MainSign_1_1Classification.html#af4bea9cfaada82922c78d06dff73b88da7afd9277975aed7c2082e7c575c2d176",
+"structosi3_1_1TrafficSign_1_1SupplementarySign_1_1Classification_1_1Arrow.html#a307edf67719e584c848087fa94ddce2ba445e59eb5d7b9dbc22935aaedc55de2d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
